@@ -1,8 +1,8 @@
 {
-  "name": "@nicolaeClichici/sauth",
+  "name": "sauth",
   "version": "0.0.0",
   "repository": {
-    "url": "https://github.com/nicolaeClichici/sauth.git."
+    "url": "https://github.com/DreamTeamEN/sauth.git."
   },
   "type": "module",
   "scripts": {
